@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "name": "IT_company",
+    "psr-4": {
+      "Company\\": "app"
+    }
+  }
+}
